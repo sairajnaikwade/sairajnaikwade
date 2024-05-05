@@ -13,7 +13,7 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca
 
 
 
-- 🔭 I’m currently working on [Online Market Places for Local Business](https://github.com/naikwadesairaj/Perk-and-Play-Cafe-Backend)
+- 🔭 I’m currently working on [Online Market Places for Local Business](https://github.com/sairajnaikwade/Online-Market-Places-for-Local-Business)
 
 - 🌱 I’m currently learning **CSE student**
 
