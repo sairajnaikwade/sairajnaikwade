@@ -1,25 +1,60 @@
-<div align="center">
-  <img src="https://github.com/YourUsername/YourUsername/blob/main/assets/developer.gif" alt="animated developer" />
-</div>
+![MasterHead](https://digitaledgetech.in/images/Banner_03.gif)
 
-<h1 align="center">Hey there! 👋 I'm Sairaj Naikwade</h1>
-<h3 align="center">Computer Engineering Student | Tech Enthusiast | Aspiring Developer</h3>
+<h1 align="center">Hi 👋, I'm Sairaj Naikwade</h1>
 
-<p align="center">Welcome to my coding corner! 🚀</p>
+<h4 align="center" style="color:#B6EAFA" >A Passoinoate Computer Science Student. 
+ Thrives in remote collaboration and excels in pair programming projects. Expertise in C, C++, HTML, CSS ,JavaScript, Python.</h4>
+<be>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sairajnaikwadei&label=Profile%20views&color=0e75b6&style=flat" alt="sairajnaikwade" /> </p>
+<br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Email-naikwadesairaj%40gmail.com-red" />
-  <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sairaj-naikwade-08a223283"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" /></a>
+<img alt="coding" align="right" width="400" 
+src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
+
+
+
+- 🔭 I’m currently working on [Online Market Places for Local Business](https://github.com/naikwadesairaj/Perk-and-Play-Cafe-Backend)
+
+- 🌱 I’m currently learning **CSE student**
+
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/sairajnaikwade)
+
+- 💬 Ask me about **C, C++, HTML, CSS ,JavaScript, Python**
+
+- 📫 How to reach me **naikwadesairaj@gmail.com**
+
+
+<br>
+<hr>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/NaikwadeSairaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="NaikwadeSairaj" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sairaj-naikwade-08a223283/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sairaj-naikwade-08a223283/" height="30" width="40" /></a>
+<a href="https://instagram.com/sairaj.naikwade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sairaj.naikwade" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/naikwadesairaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="naikwadesairaj" height="25" width="40" /></a>
 </p>
 
-<p align="center">
-  🌱 I'm passionate about coding, exploring new technologies, and building innovative projects. <br>
-  💼 Currently, I'm honing my skills as a student while actively seeking internship opportunities. <br>
-  🔭 I’m currently working on enhancing my coding skills and exploring projects related to web development. <br>
-  🚀 I’m always eager to learn and collaborate on exciting projects. Let's build something awesome together! <br>
-  💬 Ask me about anything related to programming, tech, or engineering. I'm here to help and learn from others! <br>
-  📫 How to reach me: naikwadesairaj@gmail.com <br>
-  ⚡ Fun fact: I love exploring nature trails and capturing scenic landscapes through my lens.
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="Jupyter" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm" width="40" height="40"/>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
 
-<p align="center">Let's connect and collaborate! Feel free to explore my projects and drop me a message. Happy coding! 😊</p>
+</p>
+<br>
+<h3>📈 My GitHub Stats:</h3>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sairajnaikwade&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sairajnaikwade" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sairajnaikwade&show_icons=true&locale=en&theme=tokyonight" alt="sairajnaikwade" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sairajnaikwade&&theme=tokyonight" alt="sairajnaikwade" /></p>
+
