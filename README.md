@@ -57,4 +57,6 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sairajnaikwade&show_icons=true&locale=en&theme=tokyonight" alt="sairajnaikwade" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sairajnaikwade&&theme=tokyonight" alt="sairajnaikwade" /></p>
-
+<p align="center">
+ <img width="1000" src="github-snake.svg" alt="snake"/>
+</p>
