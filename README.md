@@ -4,8 +4,8 @@
 
 <h4 align="center" style="color:#B6EAFA" >A Passoinoate Computer Science Student. 
  Thrives in remote collaboration and excels in pair programming projects. Expertise in C, C++, HTML, CSS ,JavaScript, Python.</h4>
-<be>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sairajnaikwadei&label=Profile%20views&color=0e75b6&style=flat" alt="sairajnaikwade" /> </p>
+
+
 <br>
 
 <img alt="coding" align="right" width="400" 
@@ -46,7 +46,10 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca
 </p>
 <br>
 <h3>📈 My GitHub Stats:</h3>
-
+<hr>
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=sairajnaikwadei&style=for-the-badge&color=orange" alt=""/>
+</div>
 <hr>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sairajnaikwade&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sairajnaikwade" /></p>
@@ -55,7 +58,6 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sairajnaikwade&show_icons=true&locale=en&theme=tokyonight" alt="sairajnaikwade" /></p>
 
-<hr>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sairajnaikwade&&theme=tokyonight" alt="sairajnaikwade" /></p>
 
@@ -63,3 +65,8 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca
 <p align="center">
  <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
+
+<div align="center">
+    <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+    <img src="https://forthebadge.com/images/badges/built-by-developers.svg" />
+</div>
