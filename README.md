@@ -29,11 +29,11 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/NaikwadeSairaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="NaikwadeSairaj" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sairaj-naikwade-08a223283/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sairaj-naikwade-08a223283/" height="30" width="40" /></a>
-<a href="https://instagram.com/sairaj.naikwade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sairaj.naikwade" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/naikwadesairaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="naikwadesairaj" height="25" width="40" /></a>
-</p>
+
+ 
+| Twitter | LinkedIn | Instagram | Hacker Rank |
+|---------|----------|-----------|-------------|
+| <a href="https://twitter.com/NaikwadeSairaj" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="55" width="55"/></a> | <a href="https://linkedin.com/in/sairaj-naikwade-08a223283/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="55" width="55"/></a> | <a href="https://instagram.com/sairaj.naikwade" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="55" width="55"/></a> | <a href="https://www.hackerrank.com/naikwadesairaj" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Hacker Rank" height="55" width="55"/></a> |
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
