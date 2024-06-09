@@ -1,31 +1,22 @@
-![MasterHead](https://digitaledgetech.in/images/Banner_03.gif)
+![API GIF](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 
 <h1 align="center">Hi 👋, I'm Sairaj Naikwade</h1>
 
-<h4 align="center" style="color:#B6EAFA" >A Passoinoate Computer Science Student. 
- Thrives in remote collaboration and excels in pair programming projects. Expertise in C, C++, HTML, CSS ,JavaScript, Python.</h4>
+<h3>About me 🚀</h3>
+<p>A Passoinoate Computer Science Student. 
+ Thrives in remote collaboration and excels in pair programming projects. Expertise in C, C++, HTML, CSS ,JavaScript, Python.</p>
 
 
-<br>
+<h3>Working on ⚡️</h3>
 
-<img alt="coding" align="right" width="400" 
-src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
-
-
-
-- 🔭 I’m currently working on [Online Market Places for Local Business](https://github.com/sairajnaikwade/Online-Market-Places-for-Local-Business)
-
-- 🌱 I’m currently learning **CSE student**
+ - [Online Market Places for Local Business](https://github.com/sairajnaikwade/Online-Market-Places-for-Local-Business)
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/sairajnaikwade)
 
-- 💬 Ask me about **C, C++, HTML, CSS ,JavaScript, Python**
+<h3>📫 How to reach me </h3>
 
-- 📫 How to reach me **naikwadesairaj@gmail.com**
+Email : **naikwadesairaj@gmail.com**
 
-
-<br>
-<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -47,13 +38,28 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca
 <br>
 <h2 align="center">⚡️Stats⚡️</h2>
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sairajnaikwade&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sairajnaikwade" /></p>
+<br/>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=sairajnaikwade&count_private=true&theme=react&border_radius=20" alt="streak stats"/>
+    <br/>
+    <br/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=sairajnaikwade&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=20" alt="readme stats" />
+  <br/>
+    <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sairajnaikwade&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&border_radius=20" height="150" alt="languages graph"  />
+    <br/>
+    <br/>
+    
+[![Sairaj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sairajnaikwade&theme=react-dark&radius=16&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
+
+<h2 align="center">⚡️Visitors⚡️</h2>
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=sairajnaikwade&style=for-the-badge&color=blue&border_radius=20" alt=""/>
+</div>
 
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sairajnaikwade&show_icons=true&locale=en&theme=tokyonight" alt="sairajnaikwade" /></p>
-
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sairajnaikwade&&theme=tokyonight" alt="sairajnaikwade" /></p>
 
 ### Hope You Enjoyed My Profile Make Sure you Follow for more😉
 <p align="center">
