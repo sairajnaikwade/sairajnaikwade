@@ -45,28 +45,17 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca
 
 </p>
 <br>
-<h3>📈 My GitHub Stats:</h3>
-<hr>
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=sairajnaikwadei&style=for-the-badge&color=orange" alt=""/>
-</div>
-<hr>
+<h2 align="center">⚡️Stats⚡️</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sairajnaikwade&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sairajnaikwade" /></p>
-
-<hr>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sairajnaikwade&show_icons=true&locale=en&theme=tokyonight" alt="sairajnaikwade" /></p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sairajnaikwade&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sairajnaikwade" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sairajnaikwade&&theme=tokyonight" alt="sairajnaikwade" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sairajnaikwade&show_icons=true&locale=en&theme=tokyonight" alt="sairajnaikwade" /></p>
 
-### Hope You Enjoyed My Profile Make Sur you Follow for more😉
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sairajnaikwade&&theme=tokyonight" alt="sairajnaikwade" /></p>
+
+### Hope You Enjoyed My Profile Make Sure you Follow for more😉
 <p align="center">
  <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
-
-<div align="center">
-    <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-    <img src="https://forthebadge.com/images/badges/built-by-developers.svg" />
-</div>
