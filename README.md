@@ -57,7 +57,7 @@
     <br/><br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sairajnaikwade&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&border_radius=20" height="150" alt="languages graph" />
     <br/><br/>
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph" target="_blank"><img src="https://github-readme-activity-graph.vercel.app/graph?username=sairajnaikwade&theme=react-dark&radius=16&hide_border=false" alt="activity graph" /></a>
+    
 </div>
 
 <h2 align="center">⚡️Visitors⚡️</h2>
