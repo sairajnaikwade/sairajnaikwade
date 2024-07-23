@@ -57,9 +57,14 @@
     
 </div>
 
-<h2 align="center">⚡️Visitors⚡️</h2>
+<h2 align="center"></h2>
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=sairajnaikwade&style=for-the-badge&color=blue&border_radius=20" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=sairajnaikwade&style=for-the-badge&color=00bfbf&border_radius=20" alt="Profile Views"/>
+    <p align="center">
+  <a href="https://github.com/sairajnaikwade?tab=repositories&sort=stargazers">
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/sairajnaikwade?logo=github&style=for-the-badge&color=00bfbf&labelColor=008b8b" >
+  <a href="https://github.com/sairajnaikwade?tab=followers"><img
+src="https://img.shields.io/github/followers/sairajnaikwade?logo=github&style=for-the-badge&color=00bfbf&labelColor=008b8b" /></a>
 </div>
 
 <p align="center">
