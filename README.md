@@ -13,26 +13,21 @@
 <h2>About Me 🚀</h2>
 <p>I am Sairaj from Maharashtra,India. An energetic and detail-oriented Computer Engineering student on a journey to bridge the digital realm. Currently seeking opportunities to learn and grow. Fueled with continuous learning and hardwork aiming to be great at this field.</p>
 
-<h2>Working On ⚡️</h2>
-<ul>
-    <li><a href="https://github.com/sairajnaikwade/Online-Market-Places-for-Local-Business" target="_blank">Online Market Places for Local Business</a></li>
-</ul>
 
-<h2>📫 How to Reach Me</h2>
-<p>Email: <a href="mailto:naikwadesairaj@gmail.com">naikwadesairaj@gmail.com</a></p>
 
-<h2>Connect with Me:</h2>
-<table>
+
+<!--<h2 align="center">Connect with Me </h2>
+<table align="center">
     <tr>
         <td><a href="https://twitter.com/NaikwadeSairaj" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="55" width="55"/></a></td>
         <td><a href="https://linkedin.com/in/sairaj-naikwade-08a223283/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="55" width="55"/></a></td>
         <td><a href="https://instagram.com/sairaj.naikwade" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="55" width="55"/></a></td>
         <td><a href="https://www.hackerrank.com/naikwadesairaj" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Hacker Rank" height="55" width="55"/></a></td>
     </tr>
-</table>
+</table>---->
 
-<h2>Languages and Tools:</h2>
-<table>
+<h2 align="center">Languages and Tools</h2>
+<table align="center">
     <tr>
         <td><a href="https://jupyter.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="Jupyter" height="55" width="55"/></a></td>
         <td><a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" height="55" width="55"/></a></td>
@@ -67,10 +62,19 @@
     <img src="https://komarev.com/ghpvc/?username=sairajnaikwade&style=for-the-badge&color=blue&border_radius=20" alt="Profile Views"/>
 </div>
 
-<h2 align="center">Hope You Enjoyed My Profile! Make Sure to Follow for More😉</h2>
 <p align="center">
     <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
-
+<div align="center">
+    
+### Connect With Me 📪
+  
+ [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/sairaj-naikwade-08a223283)
+   [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/NaikwadeSairaj)
+     [![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/sairaj.naikwade)
+    [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:naikwadesairaj@gmail.com)
+ 
+<img src="Assests/divider1.png">
+</div>
 </body>
 </html>
