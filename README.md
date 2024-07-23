@@ -6,9 +6,9 @@
    
 </head>
 <body>
-
-<h1 align="center">Hi 👋, I'm Sairaj Naikwade</h1>
 <p align="center"><img src="header.png" alt="API GIF" /></p>
+<h1 align="center">Hi 👋, I'm Sairaj Naikwade</h1>
+
 
 <h2>About Me 🚀</h2>
 <p>I am Sairaj from Maharashtra,India. An energetic and detail-oriented Computer Engineering student on a journey to bridge the digital realm. Currently seeking opportunities to learn and grow. Fueled with continuous learning and hardwork aiming to be great at this field.</p>
