@@ -11,7 +11,7 @@
 <p align="center"><img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" alt="API GIF" /></p>
 
 <h2>About Me 🚀</h2>
-<p>A passionate Computer Science student who thrives in remote collaboration and excels in pair programming projects. Proficient in C, C++, HTML, CSS, JavaScript, and Python.</p>
+<p>I am Sairaj from Maharashtra,India. An energetic and detail-oriented Computer Engineering student on a journey to bridge the digital realm. Currently seeking opportunities to learn and grow. Fueled with continuous learning and hardwork aiming to be great at this field.</p>
 
 <h2>Working On ⚡️</h2>
 <ul>
@@ -51,11 +51,13 @@
 
 <h2 align="center">⚡️Stats⚡️</h2>
 <div align="center">
-    <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=sairajnaikwade&count_private=true&theme=react&border_radius=20" alt="streak stats"/>
-    <br/><br/>
-    <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=sairajnaikwade&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=20" alt="readme stats" />
-    <br/><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sairajnaikwade&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&border_radius=20" height="150" alt="languages graph" />
+   <p align="center">
+<img src="https://github-readme-stats-salesp07.vercel.app/api?username=sairajnaikwade&count_private=true&show_icons=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&border_radius=20&hide_border=true"  width="48%"/>
+<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=sairajnaikwade&count_private=true&border_radius=20&ring=00bfbf&stroke=c9d1d9&background=0d1117&fire=00bfbf&currStreakNum=00bfbf&sideNums=00bfbf&sideNums=00bfbf&datesside=00bfbf&Labelscurr=00bfbf&currStreakLabel=00bfbf&sideLabels=00bfbf&dates=c9d1d9&border=c9d1d9&hide_border=true"  width="48%"/>
+</p>
+  <p align="center">
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sairajnaikwade&hide=HTML&langs_count=8&layout=compact&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&border_radius=15&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide_border=true"width="70%"/> 
+</p>
     <br/><br/>
     
 </div>
