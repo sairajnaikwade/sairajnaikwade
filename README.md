@@ -74,7 +74,7 @@
      [![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/sairaj.naikwade)
     [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:naikwadesairaj@gmail.com)
  
-<img src="Assests/divider1.png">
+<img src="Assests/divider.png">
 </div>
 </body>
 </html>
