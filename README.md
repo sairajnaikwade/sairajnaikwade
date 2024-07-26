@@ -80,6 +80,7 @@ src="https://img.shields.io/github/followers/sairajnaikwade?logo=github&style=fo
     [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:naikwadesairaj@gmail.com)
  
 <img src="divider.png">
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 </body>
 </html>
