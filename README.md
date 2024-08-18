@@ -79,8 +79,9 @@
 <h2 align="center"><img src="Assests/giphy.gif" width="30"> My GitHub Commits <img src="Assests/giphy.gif" width="30"></h2>
 
 <div align="center">
-    <img width=390 src="https://github-readme-activity-graph.vercel.app/graph?username=sairajnaikwade&theme=github&bg_color=0d1117&color=00bfbf&line=00bfbf&point=ff6f61&area=true&hide_border=true&radius=16">
+    <img width=390 src="https://github-readme-activity-graph.vercel.app/graph?username=sairajnaikwade&theme=radical&bg_color=0d1117&color=ffeb3b&line=ff5722&point=4caf50&area=true&hide_border=true&radius=16">
 </div>
+
 
 
 
