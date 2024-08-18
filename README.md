@@ -23,16 +23,16 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-<!--<h2 align="center">Connect with Me </h2>
-<table align="center">
-    <tr>
-        <td><a href="https://twitter.com/NaikwadeSairaj" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="55" width="55"/></a></td>
-        <td><a href="https://linkedin.com/in/sairaj-naikwade-08a223283/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="55" width="55"/></a></td>
-        <td><a href="https://instagram.com/sairaj.naikwade" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="55" width="55"/></a></td>
-        <td><a href="https://www.hackerrank.com/naikwadesairaj" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Hacker Rank" height="55" width="55"/></a></td>
-    </tr>
-</table>---->
+### Working On ⚡️
+    
+- Tweaking This [Readme file 🔎](https://github.com/sairajnaikwade/sairajnaikwade.git) For Optimal Engagement
+- [Project 💡](https://github.com/sairajnaikwade/Zero-Hunger.git) : Zero-Hunger, A Web Applications provides Food To Needy People.
 
+<div align="left">
+    <div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+    
 <h2 align="center">Languages and Tools</h2>
 <table align="center">
     <tr>
