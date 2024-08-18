@@ -9,12 +9,19 @@
 <p align="center"><img src="header.png" alt="API GIF" /></p>
 <h1 align="center">Hi 👋, I'm Sairaj Naikwade</h1>
 
+<div align="left">
+    <div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
 <h2>About Me 🚀</h2>
 <p>I am Sairaj from Maharashtra,India. An energetic and detail-oriented Computer Engineering student on a journey to bridge the digital realm. Currently seeking opportunities to learn and grow. Fueled with continuous learning and hardwork aiming to be great at this field.</p>
 
 
-
+<div align="left">
+    <div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
 <!--<h2 align="center">Connect with Me </h2>
 <table align="center">
@@ -44,6 +51,11 @@
     </tr>
 </table>
 
+<div align="left">
+    <div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
 <h2 align="center">⚡️Stats⚡️</h2>
 <div align="center">
    <p align="center">
@@ -56,11 +68,22 @@
     <br/><br/>
     
 </div>
+
+<div align="left">
+    <div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+    
 <!--Contributuins Graph--->
 
 <h2 align="center"><img src="Assests/giphy.gif" width="30"> My GitHub Commits <img src="Assests/giphy.gif" width="30"></h2>
 
 <img width=390 src="https://github-readme-activity-graph.vercel.app/graph?username=sairajnaikwade&theme=react-dark&radius=16&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph">
+</div>
+
+<div align="left">
+    <div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
 <h2 align="center"></h2>
