@@ -32,30 +32,104 @@
     <div align="left">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
-    
-<h2 align="center">Languages and Tools</h2>
+    <h2 align="center">Languages and Tools</h2>
 <table align="center">
     <tr>
-        <td><a href="https://jupyter.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="Jupyter" height="55" width="55"/></a></td>
-        <td><a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" height="55" width="55"/></a></td>
-        <td><a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm" height="55" width="55"/></a></td>
-        <td><a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="55" width="55"/></a></td>
-        <td><a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="55" width="55"/></a></td>
+        <td align="center">
+            <a href="https://jupyter.org/" target="_blank">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="Jupyter" height="55" width="55"/>
+                <br><a href="https://jupyter.org/" target="_blank">Jupyter</a>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://code.visualstudio.com/" target="_blank">
+                <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" height="55" width="55"/>
+                <br><a href="https://code.visualstudio.com/" target="_blank">VS Code</a>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://www.jetbrains.com/pycharm/" target="_blank">
+                <img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm" height="55" width="55"/>
+                <br><a href="https://www.jetbrains.com/pycharm/" target="_blank">PyCharm</a>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="55" width="55"/>
+                <br><a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">C</a>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="55" width="55"/>
+                <br><a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">C++</a>
+            </a>
+        </td>
     </tr>
     <tr>
-        <td><a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" height="55" width="55"/></a></td>
-        <td><a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" height="55" width="55"/></a></td>
-        <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="55" width="55"/></a></td>
-        <td><a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="55" width="55"/></a></td>
-        <td><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="55" width="55"/></a></td>
+        <td align="center">
+            <a href="https://www.w3schools.com/css/" target="_blank">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" height="55" width="55"/>
+                <br><a href="https://www.w3schools.com/css/" target="_blank">CSS</a>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://www.w3.org/html/" target="_blank">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" height="55" width="55"/>
+                <br><a href="https://www.w3.org/html/" target="_blank">HTML</a>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="55" width="55"/>
+                <br><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">JavaScript</a>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://www.linux.org/" target="_blank">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="55" width="55"/>
+                <br><a href="https://www.linux.org/" target="_blank">Linux</a>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://www.python.org" target="_blank">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="55" width="55"/>
+                <br><a href="https://www.python.org" target="_blank">Python</a>
+            </a>
+        </td>
     </tr>
     <!-- New row for additional common languages -->
     <tr>
-        <td><a href="https://www.sql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" height="55" width="55"/></a></td>
-        <td><a href="https://www.r-project.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" height="55" width="55"/></a></td>
-        <td><a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" height="55" width="55"/></a></td>
-        <td><a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height="55" width="55"/></a></td>
-        <td><a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="55" width="55"/></a></td>
+        <td align="center">
+            <a href="https://www.sql.org/" target="_blank">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" height="55" width="55"/>
+                <br><a href="https://www.sql.org/" target="_blank">SQL</a>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://www.r-project.org/" target="_blank">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" height="55" width="55"/>
+                <br><a href="https://www.r-project.org/" target="_blank">R</a>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://www.php.net/" target="_blank">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" height="55" width="55"/>
+                <br><a href="https://www.php.net/" target="_blank">PHP</a>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://www.docker.com/" target="_blank">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height="55" width="55"/>
+                <br><a href="https://www.docker.com/" target="_blank">Docker</a>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://www.java.com/" target="_blank">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="55" width="55"/>
+                <br><a href="https://www.java.com/" target="_blank">Java</a>
+            </a>
+        </td>
     </tr>
 </table>
 
