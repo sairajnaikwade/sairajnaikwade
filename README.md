@@ -49,11 +49,20 @@
         <td><a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="55" width="55"/></a></td>
         <td><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="55" width="55"/></a></td>
     </tr>
+    <!-- New row for additional common languages -->
+    <tr>
+        <td><a href="https://www.sql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" height="55" width="55"/></a></td>
+        <td><a href="https://www.r-project.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" height="55" width="55"/></a></td>
+        <td><a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" height="55" width="55"/></a></td>
+        <td><a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height="55" width="55"/></a></td>
+        <td><a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="55" width="55"/></a></td>
+    </tr>
 </table>
 
 <div align="left">
     <div align="left">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+        <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+    </div>
 </div>
 
 <h2 align="center">⚡️Stats⚡️</h2>
