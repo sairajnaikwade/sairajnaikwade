@@ -32,7 +32,8 @@
     <div align="left">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
-    <h2 align="center">Languages and Tools</h2>
+    <h2 align="center"><img src="Assests/code.gif" height="20"/> Languages and Tools <img src="Assests/code.gif" height="20"/></h2>
+    
 <table align="center">
     <tr>
         <td align="center">
