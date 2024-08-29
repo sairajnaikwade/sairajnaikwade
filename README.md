@@ -1,12 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   
-</head>
+<img src="Assests/header.png">
 <body>
-<p align="center"><img src="header.png" alt="API GIF" /></p>
 <h1 align="center">Hi 👋, I'm Sairaj Naikwade</h1>
 
 <div align="left">
@@ -14,7 +7,8 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-<h2>About Me 🚀</h2>
+###  About Me  <img  src="Assests/stats.gif" height="35"/>
+
 <p>I am Sairaj from Maharashtra,India. An energetic and detail-oriented Computer Engineering student on a journey to bridge the digital realm. Currently seeking opportunities to learn and grow. Fueled with continuous learning and hardwork aiming to be great at this field.</p>
 
 
@@ -23,7 +17,8 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-### Working On ⚡️
+<!--Current Status--->
+### Working On <img  src="Assests/activity.gif" height="35"/> 
     
 - Tweaking This [Readme file 🔎](https://github.com/sairajnaikwade/sairajnaikwade.git) For Optimal Engagement
 - [Project 💡](https://github.com/sairajnaikwade/Zero-Hunger.git) : Zero-Hunger, A Web Applications provides Food To Needy People.
@@ -184,9 +179,8 @@
 src="https://img.shields.io/github/followers/sairajnaikwade?logo=github&style=for-the-badge&color=00bfbf&labelColor=008b8b" /></a>
 </div>
 
-<p align="center">
-    <img width="1000" src="github-snake.svg" alt="snake"/>
-</p>
+<!---snake gif Available in Assests-->
+ <img width="1000" src="Assests/github-snake.svg" alt="snake"/>
 <div align="center">
     
 ### Connect With Me 📪
@@ -196,8 +190,8 @@ src="https://img.shields.io/github/followers/sairajnaikwade?logo=github&style=fo
      [![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/sairaj.naikwade)
     [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:naikwadesairaj@gmail.com)
  
-<img src="divider.png">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<img src="Assests/divider1.png">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 </body>
 </html>
