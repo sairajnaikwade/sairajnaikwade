@@ -30,40 +30,41 @@
   
     
 
-    
+
+<!-- Languages and Tools Table -->    
 <h2 align="center">
   <img src="Assests/code.gif" height="20"/> Languages and Tools 
   <img src="Assests/code.gif" height="20"/>
 </h2>
 
-<!-- Languages and Tools Table -->
-<table align="center">
+<!-- Responsive Languages and Tools Table -->
+<table align="center" style="border-collapse: collapse; width: 100%; max-width: 800px;">
   <tr>
-    <td align="center" width="120">
+    <td align="center" style="padding: 10px;">
       <a href="https://www.python.org" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="55" width="55"/>
         <br><strong>Python</strong>
       </a>
     </td>
-    <td align="center" width="120">
+    <td align="center" style="padding: 10px;">
       <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="55" width="55"/>
         <br><strong>C</strong>
       </a>
     </td>
-    <td align="center" width="120">
+    <td align="center" style="padding: 10px;">
       <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="55" width="55"/>
         <br><strong>C++</strong>
       </a>
     </td>
-    <td align="center" width="120">
+    <td align="center" style="padding: 10px;">
       <a href="https://jupyter.org/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="Jupyter" height="55" width="55"/>
         <br><strong>Jupyter</strong>
       </a>
     </td>
-    <td align="center" width="120">
+    <td align="center" style="padding: 10px;">
       <a href="https://code.visualstudio.com/" target="_blank">
         <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" height="55" width="55"/>
         <br><strong>VS Code</strong>
@@ -71,31 +72,31 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="120">
+    <td align="center" style="padding: 10px;">
       <a href="https://www.jetbrains.com/pycharm/" target="_blank">
         <img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm" height="55" width="55"/>
         <br><strong>PyCharm</strong>
       </a>
     </td>
-    <td align="center" width="120">
+    <td align="center" style="padding: 10px;">
       <a href="https://www.w3schools.com/css/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" height="55" width="55"/>
         <br><strong>CSS</strong>
       </a>
     </td>
-    <td align="center" width="120">
+    <td align="center" style="padding: 10px;">
       <a href="https://www.w3.org/html/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" height="55" width="55"/>
         <br><strong>HTML</strong>
       </a>
     </td>
-    <td align="center" width="120">
+    <td align="center" style="padding: 10px;">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="55" width="55"/>
         <br><strong>JavaScript</strong>
       </a>
     </td>
-    <td align="center" width="120">
+    <td align="center" style="padding: 10px;">
       <a href="https://www.linux.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="55" width="55"/>
         <br><strong>Linux</strong>
@@ -103,6 +104,7 @@
     </td>
   </tr>
 </table>
+
 
 <div align="left">
     <div align="left">
