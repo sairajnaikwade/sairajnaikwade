@@ -135,7 +135,11 @@
     </div>
 </div>
 
-<h2 align="center">⚡️Stats⚡️</h2>
+<h2 align="center">
+    <img src="Assests/activity.gif" height="25"/>Stats<img src="Assests/activity.gif" height="25"/> 
+
+    
+</h2>
 <div align="center">
    <p align="center">
 <img src="https://github-readme-stats-salesp07.vercel.app/api?username=sairajnaikwade&count_private=true&show_icons=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&border_radius=20&hide_border=true"  width="48%"/>
