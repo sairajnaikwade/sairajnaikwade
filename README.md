@@ -104,22 +104,6 @@
   </tr>
 </table>
 
-<!-- Animation for the icons -->
-<style>
-  table img {
-    transition: transform 0.3s ease-in-out;
-  }
-
-  table img:hover {
-    transform: scale(1.2);
-  }
-
-  table a {
-    text-decoration: none;
-  }
-</style>
-
-
 <div align="left">
     <div align="left">
         <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
