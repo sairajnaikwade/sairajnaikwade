@@ -133,7 +133,7 @@
 <!--Contributuins Graph--->
 <h2 align="center"><b><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">  <span style="font-size: 22px;">My GitHub Commits</span>  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"></b></h2>
 <div align="center">
-    <img width=390 src="https://github-readme-activity-graph.vercel.app/graph?username=sairajnaikwade&theme=tokyo-night&bg_color=0d1117&color=ff9d00&line=00e676&point=ffd700&area=true&hide_border=true&radius=16">
+    <img width=390 src="https://github-readme-activity-graph.vercel.app/graph?username=sairajnaikwade&theme=react-dark&bg_color=0d1117&color=00ff00&line=ff4500&point=00ffcc&area=true&hide_border=true&radius=16">
 </div>
 
 
