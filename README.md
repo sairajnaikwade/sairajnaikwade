@@ -74,12 +74,13 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="55" width="55"/>
             <br><b>Linux</b>
         </td>
-        <td align="center">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="55" width="55"/>
+        <td align="center" width="96">
+            <img src="https://github.com/duyu09/Duyu09/assets/92843163/d72a8f2f-96f8-4c7f-aacf-8dfbc34a8f6c" width="48" height="48" />
             <br><b>Python</b>
         </td>
     </tr>
 </table>
+
 
 
 
