@@ -131,9 +131,10 @@
 </div>
     
 <!--Contributuins Graph--->
-<h2 align="center"><b><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">  <span style="font-size: 22px;">My GitHub Commits</span>  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"></b></h2>
-<div align="center">
-    <img width=390 src="https://github-readme-activity-graph.vercel.app/graph?username=sairajnaikwade&theme=react-dark&bg_color=0d1117&color=00ff00&line=ff4500&point=00ffcc&area=true&hide_border=true&radius=16">
+<div>
+    <a href="https://github.com/sairajnaikwade">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sairajnaikwade&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Sairaj's%20Github%20Contribution%20Graph%20" width="96%" alt="activity graph">
+    </a>
 </div>
 
 
