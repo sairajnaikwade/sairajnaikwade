@@ -91,7 +91,8 @@
 </div>
 
 <h2 align="center">
-    <img src="Assests/activity.gif" height="25"/>Stats<img src="Assests/activity.gif" height="25"/> 
+   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30"/> Stats <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30"/>
+
 
     
 </h2>
