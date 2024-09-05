@@ -144,7 +144,7 @@ src="https://img.shields.io/github/followers/sairajnaikwade?logo=github&style=fo
  <img width="1000" src="Assests/github-snake.svg" alt="snake"/>
 <div align="center">
     
-<h2 align="center"><img src="Assests/Follow.gif" alt="Robot" width="45"/> Connect With Me <img src="Assests/Follow.gif" alt="Robot" width="45"/></h2>
+<h2 align="center"><img src="Assests/Follow.gif" alt="Robot" width="60"/> Connect With Me <img src="Assests/Follow.gif" alt="Robot" width="60"/></h2>
   
  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/sairaj-naikwade-08a223283)
    [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/NaikwadeSairaj)
