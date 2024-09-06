@@ -45,7 +45,7 @@
             <br><b>VS Code</b>
         </td>
         <td align="center">
-            <img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm" height="55" width="55"/>
+            <img src="Assests/JetBrains.gif" alt="PyCharm" height="55" width="55"/>
             <br><b>PyCharm</b>
         </td>
         <td align="center">
