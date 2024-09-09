@@ -32,7 +32,7 @@
 
 
 <!-- Languages and Tools Table -->    
-<h2 align="center"><img src="Assests/code.gif" height="20"/> Languages and Tools <img src="Assests/code.gif" height="20"/></h2>
+<h2 align="center"><img src="Assests/code.gif" height="25"/> Languages and Tools <img src="Assests/code.gif" height="25"/></h2>
 
 <table align="center">
     <tr>
