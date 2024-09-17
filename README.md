@@ -7,7 +7,7 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-###  About Me  <img  src="Assests/stats.gif" height="35"/>
+###  About Me  <img  src="Assests/stats.gif" height="30"/>
 
 <p>I am Sairaj from Maharashtra,India. An energetic and detail-oriented Computer Engineering student on a journey to bridge the digital realm. Currently seeking opportunities to learn and grow. Fueled with continuous learning and hardwork aiming to be great at this field.</p>
 
@@ -18,7 +18,7 @@
 </div>
 
 <!--Current Status--->
-### Working On <img  src="Assests/activity.gif" height="35"/> 
+### Working On <img  src="Assests/activity.gif" height="30"/> 
     
 - Tweaking This [Readme file 🔎](https://github.com/sairajnaikwade/sairajnaikwade.git) For Optimal Engagement
 - [Project 💡](https://github.com/sairajnaikwade/Zero-Hunger.git) : Zero-Hunger, A Web Applications provides Food To Needy People.
