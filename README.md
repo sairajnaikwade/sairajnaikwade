@@ -79,6 +79,28 @@
             <br><b>Python</b>
         </td>
     </tr>
+    <tr>
+        <td align="center">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="55" width="55"/>
+            <br><b>Java</b>
+        </td>
+        <td align="center">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="55" width="55"/>
+            <br><b>MySQL</b>
+        </td>
+        <td align="center">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="55" width="55"/>
+            <br><b>MongoDB</b>
+        </td>
+        <td align="center">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="55" width="55"/>
+            <br><b>Git</b>
+        </td>
+        <td align="center">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="55" width="55"/>
+            <br><b>GitHub</b>
+        </td>
+    </tr>
 </table>
 
 
