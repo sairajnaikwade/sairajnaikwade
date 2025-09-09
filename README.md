@@ -32,8 +32,6 @@
 
 
 <!-- Languages and Tools Table -->    
-<h2 align="center"><img src="Assests/code.gif" height="25"/> Languages and Tools <img src="Assests/code.gif" height="25"/></h2>
-
 <table align="center">
     <tr>
         <td align="center">
@@ -56,15 +54,15 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="55" width="55"/>
             <br><b>C++</b>
         </td>
-    </tr>
-    <tr>
-        <td align="center">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" height="55" width="55"/>
-            <br><b>CSS</b>
-        </td>
         <td align="center">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" height="55" width="55"/>
             <br><b>HTML</b>
+        </td>
+    </tr>
+    <tr>
+            <td align="center">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" height="55" width="55"/>
+            <br><b>CSS</b>
         </td>
         <td align="center">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="55" width="55"/>
@@ -74,12 +72,10 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="55" width="55"/>
             <br><b>Linux</b>
         </td>
-        <td align="center" width="96">
+        <td align="center">
             <img src="https://github.com/duyu09/Duyu09/assets/92843163/d72a8f2f-96f8-4c7f-aacf-8dfbc34a8f6c" width="48" height="48" />
             <br><b>Python</b>
         </td>
-    </tr>
-    <tr>
         <td align="center">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="55" width="55"/>
             <br><b>Java</b>
@@ -88,6 +84,8 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="55" width="55"/>
             <br><b>MySQL</b>
         </td>
+    </tr>
+    <tr>
         <td align="center">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="55" width="55"/>
             <br><b>MongoDB</b>
@@ -97,8 +95,20 @@
             <br><b>Git</b>
         </td>
         <td align="center">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="55" width="55"/>
+            <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="55" width="55"/>
             <br><b>GitHub</b>
+        </td>
+        <td align="center">
+            <img src="https://img.icons8.com/color/512/power-bi.png" alt="Power BI" height="55" width="55"/>
+            <br><b>Power BI</b>
+        </td>
+        <td align="center">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux" height="55" width="55"/>
+            <br><b>Kali Linux</b>
+        </td>
+        <td align="center">
+            <img src="https://nmap.org/images/nmap-logo-256x256.png" alt="Nmap" height="55" width="55"/>
+            <br><b>Nmap</b>
         </td>
     </tr>
 </table>
