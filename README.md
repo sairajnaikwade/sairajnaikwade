@@ -51,7 +51,7 @@
             <br><b>C</b>
         </td>
         <td align="center">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="55" width="55"/>
+            <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="40" height="40" />
             <br><b>C++</b>
         </td>
         <td align="center">
