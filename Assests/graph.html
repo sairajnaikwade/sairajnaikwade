@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Sairaj's Contribution Graph</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { background: #0d1117; display: flex; align-items: center; justify-content: center; min-height: 100vh; font-family: monospace; }
+  .card { background: #0d1117; border: 1px solid #21262d; border-radius: 12px; padding: 24px 28px; width: 860px; max-width: 98vw; }
+  .title { text-align: center; font-size: 14px; color: #8b949e; margin-bottom: 18px; letter-spacing: 0.5px; }
+</style>
+</head>
+<body>
+<div class="card">
+  <div class="title">Sairaj's Github Contribution Graph</div>
+  <canvas id="g" height="110"></canvas>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.0/chart.umd.min.js"></script>
+<script>
+const baseData = [8,5,11,7,14,18,12,9,16,20,13,7,19,11,6,15,22,17,8,12,25,19,14,10,18,23,16,11,21,28,15];
+
+function getLast31Days() {
+  const labels = [];
+  const today = new Date();
+  for (let i = 30; i >= 0; i--) {
+    const d = new Date(today);
+    d.setDate(today.getDate() - i);
+    const month = d.toLocaleString('default', { month: 'short' });
+    labels.push(month + ' ' + d.getDate());
+  }
+  return labels;
+}
+
+const labels = getLast31Days();
+const ctx = document.getElementById('g').getContext('2d');
+
+new Chart(ctx, {
+  type: 'line',
+  data: {
+    labels,
+    datasets: [{
+      data: baseData,
+      borderColor: '#00bfbf',
+      borderWidth: 2.5,
+      pointBackgroundColor: baseData.map(v => v >= 22 ? '#ffffff' : '#00bfbf'),
+      pointBorderColor: '#00bfbf',
+      pointRadius: baseData.map(v => v >= 22 ? 5 : 3),
+      pointHoverRadius: 7,
+      fill: true,
+      backgroundColor: function(context) {
+        const chart = context.chart;
+        const {ctx: c, chartArea} = chart;
+        if (!chartArea) return 'transparent';
+        const g = c.createLinearGradient(0, chartArea.top, 0, chartArea.bottom);
+        g.addColorStop(0, 'rgba(0,191,191,0.4)');
+        g.addColorStop(1, 'rgba(0,191,191,0.02)');
+        return g;
+      },
+      tension: 0.45
+    }]
+  },
+  options: {
+    responsive: true,
+    maintainAspectRatio: true,
+    animation: { duration: 1200, easing: 'easeInOutQuart' },
+    plugins: {
+      legend: { display: false },
+      tooltip: {
+        backgroundColor: '#161b22',
+        borderColor: '#00bfbf',
+        borderWidth: 1,
+        titleColor: '#00bfbf',
+        bodyColor: '#c9d1d9',
+        padding: 10,
+        callbacks: {
+          label: (item) => '  ' + item.raw + ' contributions'
+        }
+      }
+    },
+    scales: {
+      x: {
+        grid: { color: '#21262d', lineWidth: 0.5 },
+        ticks: { color: '#8b949e', font: { size: 10 }, maxTicksLimit: 10, maxRotation: 0 },
+        title: { display: true, text: 'Days', color: '#8b949e', font: { size: 12 } }
+      },
+      y: {
+        grid: { color: '#21262d', lineWidth: 0.5 },
+        ticks: { color: '#8b949e', font: { size: 11 }, stepSize: 5 },
+        title: { display: true, text: 'Contributions', color: '#8b949e', font: { size: 12 } },
+        min: 0,
+        max: 32
+      }
+    }
+  }
+});
+</script>
+</body>
+</html>
