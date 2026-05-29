@@ -2,7 +2,10 @@ name: Auto Commit
 
 on:
   schedule:
-    - cron: '0 3 * * *'  # Runs every day at 8:30 AM India time
+    - cron: '0 3 * * *'    # 8:30 AM India
+    - cron: '0 8 * * *'    # 1:30 PM India
+    - cron: '0 13 * * *'   # 6:30 PM India
+    - cron: '0 18 * * *'   # 11:30 PM India
   workflow_dispatch:
 
 jobs:
