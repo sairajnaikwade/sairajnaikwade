@@ -1,0 +1,23 @@
+name: Auto Commit
+
+on:
+  schedule:
+    - cron: '0 3 * * *'  # Runs every day at 8:30 AM India time
+  workflow_dispatch:
+
+jobs:
+  auto-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Auto Commit
+        run: |
+          git config --global user.email "naikwadesairaj@gmail.com"
+          git config --global user.name "sairajnaikwade"
+          echo "$(date) - Daily Update" >> activity.log
+          git add .
+          git commit -m "daily update: $(date)"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
